@@ -1,5 +1,5 @@
-title = "Eddie Webb"
-baseURL = "https://example.com/"
+title = "Rafael Abbariao"
+baseURL = "https://rafabbariao.io/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
@@ -8,13 +8,13 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "Rollinsford, NH"
-email = "email@domain.com"
+address = "New York, NY"
+email = "rafael.abbariao@gmail.com"
 favicon = "/favicon.ico"
-firstName = "Eddie"
-lastName = "Webb"
-phone = "1-555-555-1234"
-profileImage = "img/TechChat.png"
+firstName = "Rafael"
+lastName = "Abbariao"
+phone = "1-917-436-6516"
+profileImage = "img/profile.jpg"
 showEducation = true
 showExperience = true
 showOpenSource = true
@@ -29,23 +29,23 @@ showSkills = true
 trackerID = "XX-123446-01"
 
 [[params.handles]]
-link = "https://www.linkedin.com/in/edwardwebb/"
+link = "https://www.linkedin.com/in/rafael-abbariao-51bb46127/"
 name = "LinkedIn"
 
 [[params.handles]]
-link = "https://github.com/eddiewebb/"
+link = "https://github.com/rafaelcarlosabbariao"
 name = "GitHub"
 
 [[params.handles]]
-link = "https://bitbucket.org/eddiewebb/"
+link = "https://bitbucket.org"
 name = "Bitbucket"
 
 [[params.handles]]
-link = "https://stackoverflow.com/users/story/82880"
+link = "https://stackoverflow.com"
 name = "Stack Overflow"
 
 [[params.handles]]
-link = "https://keybase.io/edwardawebb"
+link = "https://keybase.io"
 name = "Keybase"
 
 [outputs]
@@ -53,3 +53,6 @@ home = ["HTML", "JSON"]
 
 [taxonomies]
 tag = "tags"
+
+[markup.goldmark.renderer]
+unsafe = true
