@@ -12,17 +12,17 @@
 
 backend:
   name: github
-  repo: eddiewebb/hugo-resume
+  repo: rafaelcarlosabbariao/rafswebsite
   branch: cms
 
 
-media_folder: "exampleSite/static/img" # Folder where user uploaded files should go
+media_folder: "rafswebsite/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
 collections: # A list of collections the CMS should be able to edit
   - name: "Blog" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Blog" # Used in the UI, ie.: "New Post"
-    folder: "exampleSite/content/blog" # The path to the folder where the documents are stored
+    folder: "rafswebsite/content/blog" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
@@ -32,7 +32,7 @@ collections: # A list of collections the CMS should be able to edit
        
   - name: "Projects" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Projects" # Used in the UI, ie.: "New Post"
-    folder: "exampleSite/content/projects/creations" # The path to the folder where the documents are stored
+    folder: "rafswebsite/content/projects/creations" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}     
@@ -49,7 +49,7 @@ collections: # A list of collections the CMS should be able to edit
        
   - name: "Contributions" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Contributions" # Used in the UI, ie.: "New Post"
-    folder: "exampleSite/content/projects/contributions" # The path to the folder where the documents are stored
+    folder: "rafswebsite/content/projects/contributions" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}     
@@ -66,7 +66,7 @@ collections: # A list of collections the CMS should be able to edit
        
   - name: "Publications" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Publications" # Used in the UI, ie.: "New Post"
-    folder: "exampleSite/content/publications" # The path to the folder where the documents are stored
+    folder: "rafswebsite/content/publications" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}     
@@ -89,7 +89,7 @@ collections: # A list of collections the CMS should be able to edit
     files:
       - name: 'general'
         label: 'Site Settings'
-        file: 'exampleSite/config.toml'
+        file: 'rafswebsite/config.toml'
         extension: toml
         description: 'General Site Settings'
         fields:
@@ -119,7 +119,7 @@ collections: # A list of collections the CMS should be able to edit
           
               - { label: 'showSkills', name: 'showSkills', widget: 'boolean', required: false }
               - { label: 'showProjects', name: 'showProjects', widget: 'boolean', required: false }
-              - { label: 'showOpenSource', name: 'showOpenSource', widget: 'boolean', required: false }
+              #- { label: 'showOpenSource', name: 'showOpenSource', widget: 'boolean', required: false }
               - { label: 'showPublications', name: 'showPublications', widget: 'boolean', required: false }
               - { label: 'showExperience', name: 'showExperience', widget: 'boolean', required: false }
               - { label: 'showEducation', name: 'showEducation', widget: 'boolean', required: false }
