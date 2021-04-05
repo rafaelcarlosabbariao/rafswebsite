@@ -13,12 +13,11 @@
   },
   {
       "grouping":"Architecture",
-      "skills":["IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"
-      ]
+      "skills":["IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
   },
   {
       "grouping":"Platform Development & Administration",
-      "skills":["Bitbucket","Github", "Jira", "MySQL", "Service Manager", "TeamForge"]
+      "skills":["Github", "Jira", "MySQL", "Service Manager", "TeamForge"]
   },
   {
     "grouping":"Containers & Cloud",
