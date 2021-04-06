@@ -18,8 +18,8 @@ profileImage = "img/profile.jpg"
 showEducation = true
 showExperience = true
 showOpenSource = false
-showProjects = true
-showPublications = true
+showProjects = false
+showPublications = false
 showQr = true
 showSkills = true
 
