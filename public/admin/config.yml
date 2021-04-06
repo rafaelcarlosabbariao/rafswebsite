@@ -119,7 +119,7 @@ collections: # A list of collections the CMS should be able to edit
           
               - { label: 'showSkills', name: 'showSkills', widget: 'boolean', required: false }
               - { label: 'showProjects', name: 'showProjects', widget: 'boolean', required: false }
-              #- { label: 'showOpenSource', name: 'showOpenSource', widget: 'boolean', required: false }
+              - { label: 'showOpenSource', name: 'showOpenSource', widget: 'boolean', required: false }
               - { label: 'showPublications', name: 'showPublications', widget: 'boolean', required: false }
               - { label: 'showExperience', name: 'showExperience', widget: 'boolean', required: false }
               - { label: 'showEducation', name: 'showEducation', widget: 'boolean', required: false }
