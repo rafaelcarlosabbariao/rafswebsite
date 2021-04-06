@@ -13,7 +13,7 @@
 backend:
   name: github
   repo: rafaelcarlosabbariao/rafswebsite
-  branch: cms
+  branch: master
 
 
 media_folder: "static/img" # Folder where user uploaded files should go
