@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-Local Queens kid enamored with the vastness of Data Science and its capabilities.
+Chemical Engineering Background. Data Science Enthusiast. Ever Learning.  :) 
