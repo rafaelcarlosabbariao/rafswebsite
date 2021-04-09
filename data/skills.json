@@ -12,10 +12,6 @@
       "skills":["Python","R","git","linux","bash"]
   },
   {
-      "grouping":"Architecture",
-      "skills":["IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
-  },
-  {
       "grouping":"Platform Development & Administration",
       "skills":["Github", "Jira", "MySQL", "Service Manager", "TeamForge"]
   },
