@@ -17,5 +17,5 @@ command = "hugo -F -b $DEPLOY_PRIME_URL"
 
 [context.production.environment]
 HUGO_ENV = "production"
-HUGO_THEME = "resume"
+HUGO_THEME = "hugo-resume"
 HUGO_VERSION = "0.82.0"
