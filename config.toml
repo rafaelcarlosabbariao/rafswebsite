@@ -14,7 +14,7 @@ favicon = "/favicon.ico"
 firstName = "Rafael"
 lastName = "Abbariao"
 phone = "1-917-436-6516"
-profileImage = "img/profile.jpg"
+profileImage = "img/profile2021jpg"
 showEducation = true
 showExperience = true
 showOpenSource = false
@@ -29,7 +29,7 @@ showSkills = true
 trackerID = "XX-123446-01"
 
 [[params.handles]]
-link = "https://www.linkedin.com/in/rafael-abbariao-51bb46127/"
+link = "https://www.linkedin.com/in/rafael-abbariao/"
 name = "LinkedIn"
 
 [[params.handles]]
