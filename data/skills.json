@@ -9,11 +9,11 @@
   },
   {
       "grouping":"Languages, Operating Systems & Tools",
-      "skills":["Python","R","git","linux","bash"]
+      "skills":["Python","R","SAS","git","linux","bash"]
   },
   {
       "grouping":"Platform Development & Administration",
-      "skills":["Github", "Jira", "MySQL", "Service Manager", "TeamForge"]
+      "skills":["Github", "Jira", "Service Manager", "TeamForge"]
   },
   {
     "grouping":"Containers & Cloud",

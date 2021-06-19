@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-Chemical Engineering Background. Data Science Enthusiast. Ever Learning.  :) 
+Full Stack Data Scientist @ Pfizer. Chemical Engineering background. Health is wealth!

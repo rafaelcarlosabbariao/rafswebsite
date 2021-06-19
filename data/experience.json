@@ -1,9 +1,15 @@
 [
     {
+        "role":"Data Scientist",
+        "company":"Pfizer - New York",
+        "summary":"A lot to do with science and data ;)",
+        "range":"June 2021 - Present"
+    },
+    {
         "role":"Informatics Data Analyst",
         "company":"Pfizer - New York",
         "summary":"\n- Created dashboards using R and Tableau to communicate clinical study metrics and operational throughput\n- Developed landing page and laboratory request portal, including back-end data structure to streamline support requests and gather system quality metrics\n- Performed ad hoc data analysis to support ongoing clinical studies conducted by laboratory groups using Python, R and SQL",
-        "range":"May 2019 - Present"
+        "range":"May 2019 - June 2021"
     },
     {
         "role":"Research Assistant",
