@@ -1,20 +1,26 @@
 [
     {
-        "role":"Data Scientist",
+        "role":"Data Scientist, Manager - Clinical Development & Operations",
         "company":"Pfizer - New York",
-        "summary":"A lot to do with science and data ;)",
-        "range":"June 2021 - Present"
+        "summary":"- Paving a modern approach to resourcing standards and insights",
+        "range":"Jan 2025 - Present"
     },
     {
-        "role":"Informatics Data Analyst",
+        "role":"Data Scientist, Sr. Associate - Global Clinical Supply",
         "company":"Pfizer - New York",
-        "summary":"\n- Created dashboards using R and Tableau to communicate clinical study metrics and operational throughput\n- Developed landing page and laboratory request portal, including back-end data structure to streamline support requests and gather system quality metrics\n- Performed ad hoc data analysis to support ongoing clinical studies conducted by laboratory groups using Python, R and SQL",
-        "range":"May 2019 - June 2021"
+        "summary":"- Led implementation of AI/ML enabled solutions to accelerate global clinical supply chain operations\n-Developed demand forecasting solution to optimize supply management for clinical studies, replacing third-party solution and saving organization up to $500k per clinical study\n- Created random forest classification model to predict overage based on protocol configuration and characteristics with 87% accuracy, allowing for study improvements at outset of clinical trial",
+        "range":"Jan 2023 - Dec 2024"
     },
     {
-        "role":"Research Assistant",
+        "role":"Data Scientist, Sr. Associate - Vaccine Research & Development",
+        "company":"Pfizer - New York",
+        "summary":"- Developed analytical tools and a support portal to streamline clinical study operations, data flow, and laboratory issue resolution.",
+        "range":"May 2019 - Dec 2022"
+    },
+    {
+        "role":"ML Researcher",
         "company":"CUNY Energy Institute - New York",
-        "summary":"Developed data pipeline to consistently gather insights on battery performance against time and initial hardware characteristics\n- Developed ML model to predict battery lifetime from initial hardware characteristics\n- Implemented genetic algorithm to determine optimal model parameters",
+        "summary":"- Developed data pipeline to consistently gather insights on battery performance against time and initial hardware characteristics\n- Developed ML model to predict battery lifetime from initial hardware characteristics\n- Implemented genetic algorithm to determine optimal model parameters",
         "range":"November 2018 - May 2019"
     }
 ]
