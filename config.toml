@@ -18,9 +18,9 @@ profileImage = "img/Raf2025.jpg"
 showEducation = true
 showExperience = true
 showOpenSource = false
-showProjects = true
+showProjects = false
 showPublications = false
-showQr = true
+showQr = false
 showSkills = true
 
 [params.google]
