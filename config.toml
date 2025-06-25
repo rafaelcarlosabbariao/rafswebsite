@@ -17,10 +17,11 @@ phone = "1-917-436-6516"
 profileImage = "img/Raf2025.jpg"
 showEducation = true
 showExperience = true
+showBlog = true
 showOpenSource = false
 showProjects = false
-showPublications = true
-showQr = true
+showPublications = false
+showQr = false
 showSkills = true
 
 [params.google]
