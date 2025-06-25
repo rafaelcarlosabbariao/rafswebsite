@@ -3,3 +3,6 @@
 .RData
 .Ruserdata
 rafswebsite.Rproj
+
+# ignore
+ignore/ 

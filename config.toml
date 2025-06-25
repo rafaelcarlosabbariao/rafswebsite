@@ -11,7 +11,7 @@ enableGitInfo = false
 address = "New York, NY"
 email = "rafael.abbariao@gmail.com"
 favicon = "/favicon.ico"
-firstName = "Rafael"
+firstName = "Rafael Carlos"
 lastName = "Abbariao"
 phone = "1-917-436-6516"
 profileImage = "img/Raf2025.jpg"
@@ -19,14 +19,14 @@ showEducation = true
 showExperience = true
 showOpenSource = false
 showProjects = false
-showPublications = false
-showQr = false
+showPublications = true
+showQr = true
 showSkills = true
 
 [params.google]
 
 [params.google.analytics]
-trackerID = "XX-123446-01"
+trackerID = "G-JDVXRKSRK8"
 
 [[params.handles]]
 link = "https://www.linkedin.com/in/rafael-abbariao/"
