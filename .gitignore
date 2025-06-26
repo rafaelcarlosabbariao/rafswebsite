@@ -1,8 +1,111 @@
-.Rproj.user
+# ===== PYTHON =====
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.manifest
+*.spec
+
+# Virtual Environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+Pipfile.lock
+poetry.lock
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb~
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+.history/
+
+# Logs
+*.log
+
+# Bytecode
+*.pyc
+
+# Test output
+htmlcov/
+coverage.xml
+.cache/
+.tox/
+.pytest_cache/
+
+# MyPy / Pyright
+.mypy_cache/
+.pyright/
+
+# ===== R =====
 .Rhistory
+.Rapp.history
 .RData
 .Ruserdata
-rafswebsite.Rproj
+.Rproj.user/
+*.Rproj
+*.Rhistory
+*.RData
+*.Rout
+*.Rout.save
+
+# RStudio
+.Rproj.user/
+.Rhistory
+.RData
+*.Rproj
+
+# renv
+renv/library/
+renv/python/
+renv/staging/
+renv.lock
+
+# Packrat
+packrat/
+packrat.lock
+*.tar.gz
+
+# R Markdown
+*.utf8.md
+*.knit.md
+*.Rmd.cache/
+*.Rmd.knit.md
+cache/
+*_cache/
+*_files/
+
+# Quarto
+*.qmd.cache/
+*.qmd.knit.md
+*.qmd~
+*.nb.html
+
+# Latex/PDF
+*.aux
+*.out
+*.toc
+*.pdf
+*.log
+*.synctex.gz
+
+# OS-generated
+.DS_Store
+Thumbs.db
 
 # ignore
 ignore/ 
+
+/public/
