@@ -4,6 +4,7 @@
       "skills":[
         {"name":"Microsoft SQL Server","icon":"msql_server"},
         {"name":"Oracle","icon":"database"},
+        {"name":"Power BI", "icon":"power_bi"},
         {"name":"Tableau","icon":"tableau"}
       ]
   },
