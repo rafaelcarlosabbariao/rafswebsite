@@ -5,7 +5,7 @@
         {"name":"Microsoft SQL Server","icon":"msql_server"},
         {"name":"Oracle","icon":"database"},
         {"name":"R Shiny", "icon":"r"},
-        {"name":"Dash","icon":"python"},
+        {"name":"Python Dash","icon":"python"},
         {"name":"Power BI", "icon":"power_bi"},
         {"name":"Tableau","icon":"tableau"}
       ]
