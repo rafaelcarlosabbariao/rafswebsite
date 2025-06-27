@@ -4,13 +4,15 @@
       "skills":[
         {"name":"Microsoft SQL Server","icon":"msql_server"},
         {"name":"Oracle","icon":"database"},
+        {"name":"R Shiny", "icon":"r"},
+        {"name":"Dash","icon":"python"},
         {"name":"Power BI", "icon":"power_bi"},
         {"name":"Tableau","icon":"tableau"}
       ]
   },
   {
       "grouping":"Languages, Operating Systems & Tools",
-      "skills":["Python","R","SAS","git","linux","bash"]
+      "skills":["Python","R","SAS","git","bash"]
   },
   {
       "grouping":"Platform Development & Administration",
@@ -22,7 +24,6 @@
           {"name":"Docker","link":"https://docker.com"},
           {"name":"AWS","link":"https://aws.amazon.com"},
           {"name":"Google Cloud","link":"https://cloud.google.com"},
-          {"name":"Linux","link":"https://bosh.io"}
       ]
   }
 ]
