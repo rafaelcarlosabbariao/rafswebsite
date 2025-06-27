@@ -1,3 +1,13 @@
+---
+title: 'Humanizing Sorting Algorithms in R'
+date: Sun, 16 Oct 2022
+draft: false
+tags: [R, algorithms, data analysis] 
+---
+
+Intro
+-----
+
 I’ve just read “Algorithms to Live By: The Computer Science of Human
 Decisions” and there’s a neat sorting chapter that made these concepts a
 little more tangible and I will try to show some examples of these

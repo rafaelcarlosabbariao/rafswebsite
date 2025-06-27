@@ -16,14 +16,14 @@
   },
   {
       "grouping":"Platform Development & Administration",
-      "skills":["Github", "Jira", "Service Manager", "TeamForge"]
+      "skills":["Dataiku DSS", "Github", "Jira", "Service Manager", "TeamForge"]
   },
   {
     "grouping":"Containers & Cloud",
       "skills":[
           {"name":"Docker","link":"https://docker.com"},
           {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"},
+          {"name":"Google Cloud","link":"https://cloud.google.com"}
       ]
   }
 ]
