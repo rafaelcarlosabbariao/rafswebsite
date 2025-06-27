@@ -17,10 +17,9 @@ phone = "1-917-436-6516"
 profileImage = "img/Raf2025.jpg"
 showEducation = true
 showExperience = true
-showBlog = true
-showOpenSource = false
-showProjects = false
-showPublications = false
+showOpenSource = true
+showProjects = true
+showPublications = true
 showQr = false
 showSkills = true
 
