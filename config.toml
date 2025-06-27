@@ -11,13 +11,18 @@ enableGitInfo = false
 address = "New York, NY"
 email = "rafael.abbariao@gmail.com"
 favicon = "/favicon.ico"
-firstName = "Rafael"
+firstName = "Rafael Carlos"
 lastName = "Abbariao"
 phone = "1-917-436-6516"
 profileImage = "img/Raf2025.jpg"
+showBlog = true
+showEducation = true
+showExperience = true
+showOpenSource = false
+showProjects = false
+showPublications = false
 showQr = true
-showContact = true
-sections = ["skills", "experience", "education", "blog"]
+showSkills = true
 
 [params.google]
 
