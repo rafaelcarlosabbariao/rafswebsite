@@ -15,13 +15,9 @@ firstName = "Rafael"
 lastName = "Abbariao"
 phone = "1-917-436-6516"
 profileImage = "img/Raf2025.jpg"
-showEducation = true
-showExperience = true
-showOpenSource = true
-showProjects = true
-showPublications = true
 showQr = true
-showSkills = true
+showContact = true
+sections = ["skills", "experience", "education", "blog"]
 
 [params.google]
 
